@@ -1,7 +1,5 @@
-As my name implies, my name's Alfie and I'm on Git
+Hello! As my username implies, my name's Alfie and I'm on Git
 
-I mostly use this account for university projects and the occasional Minecraft thing when I have the time
+Please feel free to have a look at some of my published repositories if you're interested in seeing how I write code.
 
-Contact me over discord at Alfie#4698
-
-I'll be waiting...
+For any queries, please contact me by email with `alfiejay@mail.com` or over on discord with `Alfie#4698`.
